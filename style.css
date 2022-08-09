@@ -8,6 +8,10 @@ body {
     background-color: rgb(2, 63, 92);
 }
 
+a {
+    text-decoration: none;
+}
+
 /* Container 1 */
 .nama {
     margin-top: 70px;
@@ -35,6 +39,10 @@ body {
 .nama img {
     width: 40px;
     margin-top: -20px;
+}
+
+.text {
+    color: aliceblue;
 }
 
 .navbar {
