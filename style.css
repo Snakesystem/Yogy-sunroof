@@ -10,7 +10,7 @@ body {
 
 /* Container 1 */
 .nama {
-    margin-top: 100px;
+    margin-top: 70px;
 }
 
 .nama p {
@@ -18,7 +18,7 @@ body {
     letter-spacing: -2px;
     line-height: 46px;
     text-shadow: 1px 1px 1px #000000;
-    margin: 25px 0px 0px 30px;
+    margin: 15px 0px 0px 30px;
     font-size: 50px;
     font-family: 'Press Start 2P', cursive;
 }
@@ -80,6 +80,7 @@ body {
     font-family: 'Oleo Script Swash Caps', cursive;
     font-size: small;
     color: #e0eaf0;
+    margin-top: 20px;
 }
 
 .promo {
@@ -96,13 +97,25 @@ body {
     padding: 10px;
 }
 
+.bgprod {
+    background: linear-gradient(rgb(152, 186, 236), #14649b);
+}
+
 .product .col-lg-6 {
     display: flex;
-    background-color: #448abb;
     padding: 10px;
     text-align: center;
 }
 
 .galery img {
     width: 100%;
+}
+
+.bgfoot {
+    background-color: #14649b;
+}
+
+.footer {
+    padding: 15px;
+    color: aliceblue;
 }
