@@ -33,8 +33,8 @@ a {
     letter-spacing: -1px;
     margin-left: 25px;
     font-size: 30px;
-    margin-top:5px;
-    display:block;
+    margin-top: 5px;
+    display: block;
     font-family: 'Calligraffitti', cursive;
 }
 
@@ -103,6 +103,13 @@ a {
 }
 
 /* Galery */
+.bgprod h2 {
+    text-align: center;
+    font-family: Viga;
+    color: aliceblue;
+    margin-top: 20px;
+}
+
 .card img {
     padding: 10px;
 }
@@ -130,7 +137,7 @@ a {
     color: aliceblue;
 }
 
-.bgfoot img{
-    width:40px; 
-    
+.bgfoot img {
+    width: 40px;
+
 }
